@@ -4,7 +4,7 @@
 
 ## 動作環境
 
-OS: Ubuntu 22.04 on WSL2(Windows 11)
-メモリ: 32GB
-CPU: AMD Ryzen 7 5800X 8-Core Processor
-GPU: NVIDIA GeForce RTX 3060 Ti
+- OS: Ubuntu 22.04 on WSL2(Windows 11)
+- メモリ: 32GB
+- CPU: AMD Ryzen 7 5800X 8-Core Processor
+- GPU: NVIDIA GeForce RTX 3060 Ti
